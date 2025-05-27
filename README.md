@@ -2,8 +2,6 @@
 
 This project performs sentiment analysis on Netflix user reviews. It classifies reviews as Positive, Neutral, or Negative based on their textual content using Natural Language Processing (NLP) techniques and a Multinomial Naive Bayes classifier.
 
-This is an upgraded version that focuses on predicting sentiment from the actual review text, rather than relying solely on the pre-assigned review score for prediction.
-
 ## Features
 
 *   **Sentiment Classification:** Categorizes reviews into Positive, Neutral, or Negative.
