@@ -58,7 +58,7 @@ The project uses the `netflix_reviews.csv` dataset.
 
 ## Setup
 
-**Clone the repository:**
+1.  **Clone the repository:**
     ```bash
     git clone https://github.com/tanushreer-7/Netflix-Data-Sentiment-Analysis-
     cd Netflix-Data-Sentiment-Analysis-
